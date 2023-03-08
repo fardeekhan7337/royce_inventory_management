@@ -1,0 +1,2 @@
+[29-Jun-2022 01:32:38 Asia/Karachi] PHP Fatal error:  Cannot redeclare Customer_model::getCustomerProductPricesByCatId() in /home/trzcmmgk/public_html/application/models/Customer_model.php on line 132
+[15-Aug-2022 01:47:57 Asia/Singapore] PHP Fatal error:  Constant expression contains invalid operations in /home/trzcmmgk/public_html/application/core/MY_Controller.php on line 8

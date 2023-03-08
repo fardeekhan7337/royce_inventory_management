@@ -1,0 +1,42 @@
+#invoice_label
+{
+  font-size: 15px;
+}
+
+.inv-img-design
+{
+  width: 35px;
+  border-radius: 17.5px;
+}
+
+.inv-txt-design
+{
+  font-size: 14px;
+  color: black;
+}
+
+.view_inv_details,.print_inv_details
+{
+  font-size: 10px;
+  width: 100%;
+}
+
+.inv_btn_row
+{
+
+  padding-left:0px!important;
+  padding-right:0px!important;
+  margin-left:0px!important;
+  margin-right:0px!important
+
+}
+
+.inv_btn_col
+{
+
+  padding-left:0px!important;
+  padding-right:8px!important;
+  margin-left:0px!important;
+  margin-right:0px!important
+
+}

@@ -1,0 +1,80 @@
+.table-responsive .dataTables_wrapper .row .dataTables_length {
+    padding-left: 0px!important;
+    margin-bottom: 17px!important;
+}
+
+.dataTables_length
+{
+  float: left!important;
+  padding-right: 10px!important;
+
+}
+.table-responsive .dataTables_wrapper .row .dataTables_filter, .table-responsive .dataTables_wrapper .row .dataTables_paginate {
+    padding-right: 0px!important;
+}
+
+.table-responsive .dataTables_wrapper .row .dataTables_info {
+  padding-left: 0px!important;
+}
+
+table thead tr {
+    background-color: #e5e5e5!important;
+}
+
+table tbody tr {
+    background-color: white!important;
+}
+
+table.dataTable {
+  margin-bottom: 20px!important;
+  width: 100%!important;
+}
+
+.actions-icons a
+{
+  padding: 2px!important;
+}
+
+.table-img-txt-design
+{
+  /* position: absolute; */
+  margin-left: 5px!important;
+  margin-top: 17.5px!important;
+}
+
+table thead tr th:first-child{
+    width: 3%!important;
+}
+
+/* table thead tr th:last-child{
+    width: 10%!important;
+} */
+
+
+/* tablecircular img */
+.table-circular-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  /* float: left; */
+}
+.table-circular-img img {
+  min-width: 60px;
+  min-height: 60px;
+  width: auto;
+  height: 100%;
+  position: absolute;
+  background-size: 100%;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+thead, tbody, tfoot, tr, td, th {
+    white-space: inherit!important;
+}
